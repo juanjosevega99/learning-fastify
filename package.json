@@ -1,0 +1,11 @@
+{
+  "name": "learning-fastify",
+  "version": "1.0.0",
+  "description": "Learning fastify",
+  "main": "index.js",
+  "author": "Juan Jose Vega <juanvega.tech@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^3.14.2"
+  }
+}
