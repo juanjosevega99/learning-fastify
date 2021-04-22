@@ -15,7 +15,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "fastify": "^3.14.2",
-    "mongoose": "^5.12.5",
+    "fastify-autoload": "^3.7.1",
     "nodemon": "^2.0.7"
   }
 }
